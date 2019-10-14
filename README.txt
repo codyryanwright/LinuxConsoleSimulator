@@ -13,7 +13,7 @@ You will need to compile the programs for execution by running the following com
 	$gcc -std=c99 -o sort sort.c
 	$gcc -std=c99 -o linuxConsole linuxConsole.c
 
-You can then run ./linuxConsole and the console will prompt the follow console
+You can then run ./linuxConsole and the console will prompt the following...
 
 	shhh>
 
